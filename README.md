@@ -1,3 +1,5 @@
+Coding excercise from Modern React With Reduct Course by Stephen Grider. Excercise Section 12: Understanding Hooks in React , Coding Exercise 8: useState Exercise
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
