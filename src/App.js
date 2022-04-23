@@ -8,7 +8,7 @@ const App = () => {
     };
 
     const onButtonReset = () => {
-
+        setCounter(0)
     };
 
     return (
