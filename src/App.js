@@ -15,7 +15,7 @@ const App = () => {
         <div>
             App
             <button onClick={onButtonAddOne}>Add +1</button>
-            <button onClick={onButtonReset}>Add +1</button>
+            <button onClick={onButtonReset}>Reset</button>
 
             <h1>Current count: {counter}</h1>
         </div>
