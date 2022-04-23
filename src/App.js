@@ -2,11 +2,15 @@ import React, {useState} from "react";
 
 const App = () => {
 
+    const onButtonClick = () => {
+
+    };
+
 
     return (
         <div>
             App
-            <button onClick={console.log('click')}>Button</button>
+            <button onClick={onButtonClick}>Button</button>
             <h1>Current count: </h1>
         </div>
     )
