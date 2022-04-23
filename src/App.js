@@ -4,7 +4,7 @@ const App = () => {
     const [counter, setCounter] = useState(0)
 
     const onButtonClick = () => {
-        setCounter(counter+1)
+        setCounter(counter + 1)
     };
 
 
